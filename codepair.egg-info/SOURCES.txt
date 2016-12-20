@@ -1,0 +1,8 @@
+setup.py
+bin/codepair
+codepair/__init__.py
+codepair.egg-info/PKG-INFO
+codepair.egg-info/SOURCES.txt
+codepair.egg-info/dependency_links.txt
+codepair.egg-info/not-zip-safe
+codepair.egg-info/top_level.txt
