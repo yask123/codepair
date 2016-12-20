@@ -1,7 +1,7 @@
 
 # Codepair
 
-Practice interview questions on Codepair 
+Practice interview questions on HackerRank Codepair 
 
 
 ### Installation
